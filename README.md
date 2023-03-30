@@ -14,17 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="你的CSDN主页链接"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=Xier-coda&show_icons=true&theme=dark&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&theme=dark&layout=compact)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=Github主页地址&right_color=red" />
-
-![](https://activity-graph.herokuapp.com/graph?username=你的Github用户名&theme=github)
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
